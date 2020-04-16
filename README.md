@@ -1,2 +1,2 @@
 # AIMLProjects
-Few small projeects of Artificial Intelligence and Machine Learning
+Few small projects of Artificial Intelligence and Machine Learning
